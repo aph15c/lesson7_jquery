@@ -1,0 +1,5 @@
+I added a different hover color (orange) to match my app with the picture of the cake and I took out the non-hover background color, to make it look like it highlights only when hovered on.
+I made it so you had to click on the application because that was easier for me, rather than hovering accidentally and the toggle opening and closing on both.
+I added and append to the code to display an enjoy message after the instructions were finished.
+I also made it so my toggle would not only open with a click, but so it would fade in. 
+I have a couple css changes, multiple animate changes, and multiple DOM traversal changes.
